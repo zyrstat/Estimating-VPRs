@@ -1,0 +1,26 @@
+{
+    "id": "AA4E164A",
+    "path": "~/Documents/COVID-19/code/objectfunctionsbooster/src/rcpparma_hello_world.cpp",
+    "project_path": "src/rcpparma_hello_world.cpp",
+    "type": "cpp",
+    "hash": "2013811808",
+    "contents": "",
+    "dirty": false,
+    "created": 1660325023153.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "245,39",
+        "scrollLine": "1"
+    },
+    "folds": "21|126|91|0|\n95|134|121|0|\n126|81|161|0|\n166|148|242|0|\n246|156|272|0|\n277|90|312|0|\n",
+    "lastKnownWriteTime": 1660325063,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1660325063674,
+    "read_only": false,
+    "read_only_alternatives": []
+}
